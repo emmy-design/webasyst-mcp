@@ -217,6 +217,8 @@ webasyst-mcp/
 
 - **Vlad Arkhipov** 
 
+*Проект создан с использованием AI-ассистентов (Claude, Cursor).*
+
 ## Благодарности
 
 Проект создан на основе официальных материалов [Webasyst](https://www.webasyst.ru/):
