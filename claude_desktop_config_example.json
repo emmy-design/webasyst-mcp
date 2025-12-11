@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "webasyst": {
+      "command": "node",
+      "args": ["/path/to/your/project/webasyst-mcp/webasyst-mcp.js"],
+      "env": {}
+    }
+  }
+}

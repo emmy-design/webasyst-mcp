@@ -1,0 +1,17 @@
+# Файлы разработки
+.git
+.gitignore
+.cursor
+.vscode
+.idea
+
+# Тестовые и временные файлы
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Файлы, не нужные в npm пакете
+PR_CHECKLIST.md
+package-lock.json
+node_modules

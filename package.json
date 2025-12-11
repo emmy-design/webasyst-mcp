@@ -1,0 +1,60 @@
+{
+  "name": "webasyst-mcp-server",
+  "version": "2.2.0",
+  "description": "MCP сервер для Webasyst: приложения, плагины, виджеты, темы, UI 2.0",
+  "main": "webasyst-mcp.js",
+  "type": "module",
+  "bin": {
+    "webasyst-mcp": "./webasyst-mcp.js"
+  },
+  "scripts": {
+    "start": "node webasyst-mcp.js",
+    "dev": "node --inspect webasyst-mcp.js",
+    "test": "echo \"no tests\" && exit 0"
+  },
+  "keywords": [
+    "webasyst",
+    "mcp",
+    "model-context-protocol",
+    "php-framework",
+    "development-tools",
+    "shop-script",
+    "site",
+    "ui",
+    "ai",
+    "claude",
+    "cursor"
+  ],
+  "author": "Vlad Arkhipov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmy-design/webasyst-mcp.git"
+  },
+  "homepage": "https://github.com/emmy-design/webasyst-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/emmy-design/webasyst-mcp/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "webasyst-mcp.js",
+    "README.md",
+    "QUICKSTART.md",
+    "UI_COMPONENTS_REFERENCE.md",
+    "LOCALIZATION_GUIDE.md",
+    "DEVELOPMENT_STANDARDS.md",
+    "EXAMPLES.md",
+    "CURSOR_INTEGRATION.md",
+    "CONTRIBUTING.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    "install.sh",
+    "cursor-helper.js",
+    "claude_desktop_config_example.json"
+  ]
+}
