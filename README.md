@@ -3,7 +3,13 @@
 [![npm version](https://img.shields.io/npm/v/webasyst-mcp-server.svg)](https://www.npmjs.com/package/webasyst-mcp-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-MCP (Model Context Protocol) сервер для работы с фреймворком Webasyst. Предоставляет инструменты для разработки приложений, плагинов, тем и конфигурации через AI-интерфейс.
+MCP (Model Context Protocol) server for [Webasyst](https://github.com/webasyst) framework. Provides development tools for apps, plugins, themes and configuration via AI interface.
+
+> 📝 **Note:** Documentation is primarily in Russian.
+
+---
+
+MCP (Model Context Protocol) сервер для работы с фреймворком [Webasyst](https://github.com/webasyst). Предоставляет инструменты для разработки приложений, плагинов, тем и конфигурации через AI-интерфейс.
 
 ## Стандарты разработки
 
